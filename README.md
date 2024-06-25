@@ -19,3 +19,6 @@ To get wikipedia data
 
 To get funny jokes
 `pip install pyjokes`
+
+
+if you are unable to install pyaudio you have to lower down your python version to <3.6 vesriom
